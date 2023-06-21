@@ -2,7 +2,7 @@
 - 👀 I’m interested in starting some ethical hacking
 - 🌱 I’m currently learning some basic infos on programming
 - 💞️ I’m looking to collaborate on new things to develop my programming skills
-- 📫 How to reach me on my email yaxoudbst@gmail.com
+- 📫 reach me on my email yaxoudbst@gmail.com
 
 <!---
 YaxouDBST/YaxouDBST is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
