@@ -29,7 +29,7 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YaxouDBST&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" alt="Yanis's Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YaxouDBST&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=true" alt="Yanis's Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaxouDBST&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="150" />
 </p>
 
